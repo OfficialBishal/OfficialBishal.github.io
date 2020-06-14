@@ -6,7 +6,7 @@ excerpt: Hello there, I'm Bishal and currently building my github.io page. Consi
 comments: false
 ---
 
-Hi! I am Bishal Shrestha and currently Computer Engineering student, meet me <a href="https://github.com/OfficialBishal" target="_blank" rel="noopener">@github</a>, also you can find me in <a href="https://www.linkedin.com/in/ofclbishal/" target="_blank" rel="noopener">LinkedIn</a>.
+Hi! I am Bishal Shrestha, currently Computer Engineering student and I'm in journey of exploring new invention overtime 🎒, meet me <a href="https://github.com/OfficialBishal" target="_blank" rel="noopener">@github</a>, also you can find me in <a href="https://www.linkedin.com/in/ofclbishal/" target="_blank" rel="noopener">LinkedIn</a>.
 
 If you are interested in Deep Learning, Machine Learning and Artificial Intelligence then I'm with you.
 
