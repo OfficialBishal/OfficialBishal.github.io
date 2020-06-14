@@ -11,7 +11,8 @@ Hi! I am Bishal Shrestha, currently Computer Engineering student and I'm in jour
 If you are interested in Deep Learning, Machine Learning and Artificial Intelligence then I'm with you.
 
 
-##### get in contact? ✨
+
+##### buzz me at: ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
