@@ -7,7 +7,7 @@
   external: false
 
 - title: blog
-  url: /blog/
+  url: /thanks/
   external: false # set true if you using external link, see bellow
 
 # Example:
