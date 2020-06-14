@@ -6,8 +6,8 @@
   url: /about/
   external: false
 
-- title: notes
-  url: /notes/
+- title: blog
+  url: /blog/
   external: false # set true if you using external link, see bellow
 
 # Example:
