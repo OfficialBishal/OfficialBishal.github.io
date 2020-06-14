@@ -1,7 +1,7 @@
 # Site settings
 title: Bishal Shrestha
 description: >-
-  I am Bishal Shrestha and currently studying Computer Engineering,
+  Hi! I am Bishal Shrestha and currently Computer Engineering student,
   meet me <a href="https://github.com/OfficialBishal" target="_blank" rel="noopener">@github</a>.
 lang: en-US
 timezone: Asia/Kathmandu
@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Bishal Shrestha
   bio: >-
-    I am Bishal Shrestha and currently studying Computer Engineering,
+    Hi! I am Bishal Shrestha and currently Computer Engineering student,
     meet me <a href="https://github.com/OfficialBishal" target="_blank" rel="noopener">@github</a>.
   username: OfficialBishal
   email: bishal.modern@gmail.com
