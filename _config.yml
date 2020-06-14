@@ -1,26 +1,26 @@
 # Site settings
-title: Klise Theme
+title: Bishal Shrestha
 description: >-
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  I am Bishal Shrestha and currently studying Computer Engineering,
+  meet me <a href="https://github.com/OfficialBishal" target="_blank" rel="noopener">@github</a>.
 lang: en-US
-timezone: Asia/Jakarta
+timezone: Asia/Kathmandu
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/mahendrata.now.sh
+repo: https://github.com/OfficialBishal/OfficialBishal.github.io
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Klisé Theme
+  name: Bishal Shrestha
   bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username
-  email: your-email@email.com
+    I am Bishal Shrestha and currently studying Computer Engineering,
+    meet me <a href="https://github.com/OfficialBishal" target="_blank" rel="noopener">@github</a>.
+  username: OfficialBishal
+  email: bishal.modern@gmail.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://klise.now.sh"
+url: "http://sthabishal.com.np/"
 baseurl:
 permalink: /:title/
 google_analytics:
@@ -44,6 +44,15 @@ defaults:
     values:
       layout: post
       comments: false
+  # _pages
+  # - scope:
+  #   path: ""
+  #   type: pages
+  # values:
+  #   layout: single
+  #   comments: false
+  #   author_profile: true
+
 
 # Jekyll Compose default front matter
 jekyll_compose:
