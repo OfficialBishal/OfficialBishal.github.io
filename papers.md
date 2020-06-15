@@ -6,5 +6,4 @@ excerpt: Thanks to amazing people that i met, who help me out from follishness, 
 comments: false
 ---
 
-Trying hard to write one...
-Catch me <a href="https://www.linkedin.com/in/ofclbishal/" target="_blank" rel="noopener">@LinkedIn</a>.
+Trying hard to write one... Meanwhile you can read some of my writings(just my hobby) <a href="https://officialbishal.tumblr.com/" target="_blank" rel="noopener">@Tumblr</a>.
