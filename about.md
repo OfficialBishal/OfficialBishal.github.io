@@ -16,3 +16,6 @@ If you are interested in Deep Learning, Machine Learning and Artificial Intellig
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
+- <a href="https://www.linkedin.com/in/ofclbishal/" target="_blank" rel="noopener">@LinkedIn</a>
+- <a href="https://twitter.com/officialbishal" target="_blank" rel="noopener">@Twitter</a>
+- <a href="https://www.instagram.com/officialbishal/" target="_blank" rel="noopener">@Instagram</a>
