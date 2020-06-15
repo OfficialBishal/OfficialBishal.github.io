@@ -26,7 +26,7 @@ $ bundle exec jekyll serve
 ```
 
 
-I'll go straight to **syntax** that are essential
+I'll go straight to **commands** that are essential:
 ```
 $ jekyll new bs_blog        # bs_blog represent the name for my site
 $ bundle exec jekyll serve  # initially running the jekyll site
@@ -48,9 +48,8 @@ $ bundle update             # it updates to current bundle, useful when applying
 
 #### Posts Naming Convention
 It is mandatory to follow this rule in Jekyll.
-Year-Month_Date-Title
+***Year-Month_Date-Title***
 2020-01-30-working-with-jekyll
-
 
 #### Front Matter
 All the posts and pages contains Front Matter. It contains the properties that are to be followed. It can be <kbd>YAML</kbd> or <kbd>JASON</kbd>
