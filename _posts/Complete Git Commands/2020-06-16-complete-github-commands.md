@@ -1,7 +1,7 @@
 ---
 title: Complete Git Commands
 date: 2020-06-16 02:03:47 +07:00
-tags: [Github, Terminal]
+tags: [Git, Github, Terminal]
 description: All the git commands that you need to know.
 ---
 ```
