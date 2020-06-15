@@ -4,7 +4,6 @@ date: 2020-06-15 11:58:47 +07:00
 tags: [jekyll, Github, Ruby, Markdown]
 description: This is about how I created my personal site with the help of Jekyll and Github-Pages.
 ---
-
 <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> is most popular Static Site Generator which is widely used in github-pages for free. If you are thinking of having a personal site with blog in it, then Jekyll oon Github-Pages is the perfect choice for us developers.
 
 
@@ -14,7 +13,7 @@ description: This is about how I created my personal site with the help of Jekyl
 $ brew install ruby
 ```
 
-#### Getting Started with jekyll
+### Getting Started with jekyll
 
 ```
 $ gem install bundler jekyll
@@ -45,13 +44,12 @@ $ bundle update             # it updates to current bundle, useful when applying
 
 
 #### Posts Naming Convention
-It is mandatory to follow this rule in Jekyll.\
-***Year-Month_Date-Title***\
+It is mandatory to follow this rule in Jekyll.<br />
+***Year-Month_Date-Title***<br />
 2020-01-30-working-with-jekyll
 
 #### Front Matter
 All the posts and pages contains Front Matter. It contains the properties that are to be followed. It can be <kbd>YAML</kbd> or <kbd>JASON</kbd>
-
 ##### Example
 ```
 layout: post
