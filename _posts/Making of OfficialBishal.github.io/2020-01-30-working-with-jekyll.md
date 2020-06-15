@@ -9,7 +9,6 @@ description: This is about how I created my personal site with the help of Jekyl
 
 
 Pre-requisites for Jekyll are Ruby and Gems
-
 It comes default in macOS.
 
 ```
@@ -57,17 +56,17 @@ Year-Month_Date-Title
 All the posts and pages contains Front Matter. It contains the properties that are to be followed. It can be <kbd>YAML</kbd> or <kbd>JASON</kbd>
 
 Example
-—
+```
 layout: post
 title: “”
 date: 2017-12-12 12:12:12 -0900
 categories: asd
 permalink: /:categories/about/
 author: “BS”
-—
+```
 
 We can configure _config.yml to have default parameters for Front Matter. It applies the values in case these values are missing in posts or pages.
-
+```
 defaults:
 	-
 		scope:
@@ -76,7 +75,7 @@ defaults:
 		values:
 			layout: “post”
 			title: “”
-
+```
 Kernel memfasilitasi interaksi antara komponen perangkat keras dan perangkat lunak, berperan untuk menangani permintaan input/ouput dari perangkat lunak, selanjutnya menerjemahkannya ke dalam pemrosesan data untuk diintruksikan ke CPU, sehingga Hardware(cpu, memory, devices) mengerti perintah yang dimaksud dari pengguna.
 
 Ketika kita menginputkan suatu perintah pada terminal emulator, kernel tidak langsung mengerti perintah yang kita ketik, kita membutuhkan suatu interface sebagai perantara menuju kernel yaitu **Shell**.
