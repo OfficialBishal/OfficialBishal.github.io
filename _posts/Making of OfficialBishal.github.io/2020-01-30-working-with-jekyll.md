@@ -8,7 +8,7 @@ description: This is about how I created my personal site with the help of Jekyl
 <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> is most popular Static Site Generator which is widely used in github-pages for free. If you are thinking of having a personal site with blog in it, then Jekyll oon Github-Pages is the perfect choice for us developers.
 
 
-`Pre-requisites for Jekyll are Ruby and Gems.  It comes in default with macOS.`
+`Pre-requisites for Jekyll are Ruby and Gems.`  `It comes in default with macOS.`
 
 ```
 $ brew install ruby
