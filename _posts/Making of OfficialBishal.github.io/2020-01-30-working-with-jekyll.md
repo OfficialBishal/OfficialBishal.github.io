@@ -16,7 +16,7 @@ It comes default in macOS.
 $ brew install ruby
 ```
 
-#####Getting Started with jekyll
+##### Getting Started with jekyll
 ```
 $ gem install bundler jekyll
 $ jekyll new my-awesome-site
@@ -35,7 +35,7 @@ $ bundle install            # install all the required prerequisites
 $ bundle update             # it updates to current bundle, useful when applying themes
 ```
 
-#####Important files inside Jekyll site
+##### Important files inside Jekyll site
 - _config : contains all the important data for site (brain)
 - Gemfile : Jekyll works on Gem structure
 - _drafts : this folder contains all the draft files(posts & pages)
@@ -44,13 +44,13 @@ $ bundle update             # it updates to current bundle, useful when applying
 - _pages : this folder contains all the Pages
 
 
-#####Posts Naming Convention
+##### Posts Naming Convention
 It is mandatory to follow this rule in Jekyll.
 Year-Month_Date-Title
 2020-01-30-working-with-jekyll
 
 
-#####Front Matter
+##### Front Matter
 All the posts and pages contains Front Matter. It contains the properties that are to be followed. It can be <kbd>YAML</kbd> or <kbd>JASON</kbd>
 
 Example
