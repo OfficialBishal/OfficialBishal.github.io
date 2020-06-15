@@ -14,20 +14,20 @@ description: This is about how I created my personal site with the help of Jekyl
 
 Pre-requisites for Jekyll are Ruby and Gems
 - It comes default in macOS.
-'''
+```
 $ brew install ruby
-'''
+```
 
 Getting Started with jekyll
-'''
+```
 $ gem install bundler jekyll
 $ jekyll new my-awesome-site
 $ cd my-awesome-site
 $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
-'''
+```
 
-User<sup id="user">[[1]](#user-ref)</sup> tidak bisa secara langsung berkomunikasi dengan sebuah hardware komputer, maka dari itu kita membutuhkan sebuah sistem operasi; **Kernel** adalah program yang merupakan inti utama dari sistem operasi komputer.
+I'll go straight to **syntax** that are essential
 
 <figure>
 <img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
