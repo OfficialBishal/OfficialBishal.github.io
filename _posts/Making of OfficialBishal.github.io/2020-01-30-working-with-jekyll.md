@@ -7,18 +7,16 @@ description: This is about how I created my personal site with the help of Jekyl
 
 <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> is most popular Static Site Generator which is widely used in github-pages for free. If you are thinking of having a personal site with blog in it, then Jekyll oon Github-Pages is the perfect choice for us developers.
 
-<figure>
-<img src="/apa-itu-shell/terminal_nginx.gif" alt="installing nginx in ubuntu">
-<figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
-</figure>
 
 Pre-requisites for Jekyll are Ruby and Gems
-- It comes default in macOS.
+
+It comes default in macOS.
+
 ```
-$ brew install ruby
+$ brew install ruby     <kbd>ENTER</kbd>
 ```
 
-Getting Started with jekyll
+#####Getting Started with jekyll
 ```
 $ gem install bundler jekyll
 $ jekyll new my-awesome-site
