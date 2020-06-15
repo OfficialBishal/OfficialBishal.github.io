@@ -10,16 +10,16 @@ $ git status
 $ git initial $
 ```
 ```
-$ git add -A      # stage All
-$ git add .       # stage new and modified, without deleted
-$ git add -u      # stage modified and deleted, without new
+$ git add -A            # stage All
+$ git add .             # stage new and modified, without deleted
+$ git add -u            # stage modified and deleted, without new
 ```
 ```
 $ git commit -m “Version 1”
 $ git log
 ```
 ```
-$ git clone ___           # makes folder inside
+$ git clone ___             # makes folder inside
 $ git clone ___ .			# makes the folder reprosotory
 ```
 ```
