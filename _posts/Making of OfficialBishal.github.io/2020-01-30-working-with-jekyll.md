@@ -45,8 +45,8 @@ $ bundle update             # it updates to current bundle, useful when applying
 
 
 #### Posts Naming Convention
-It is mandatory to follow this rule in Jekyll.
-***Year-Month_Date-Title***
+It is mandatory to follow this rule in Jekyll.\
+***Year-Month_Date-Title***\
 2020-01-30-working-with-jekyll
 
 #### Front Matter
