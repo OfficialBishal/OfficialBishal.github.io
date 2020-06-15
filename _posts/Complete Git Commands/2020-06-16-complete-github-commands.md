@@ -20,7 +20,7 @@ $ git log
 ```
 ```
 $ git clone ___         # makes folder inside
-$ git clone ___ .       # makes the folder reprosotory
+$ git clone ___ .       # makes the folder repository
 ```
 ```
 touch .gitignore
