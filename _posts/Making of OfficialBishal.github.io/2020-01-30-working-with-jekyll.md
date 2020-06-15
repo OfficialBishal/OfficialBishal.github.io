@@ -12,7 +12,7 @@ description: This is about how I created my personal site with the help of Jekyl
 ```
 $ brew install ruby
 ```
-
+<br />
 ### Getting Started with jekyll
 
 ```
