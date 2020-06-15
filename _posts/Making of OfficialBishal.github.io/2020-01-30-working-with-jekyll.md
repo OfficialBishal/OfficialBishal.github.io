@@ -18,12 +18,14 @@ $ brew install ruby
 
 #### Getting Started with jekyll
 ```
+
 $ gem install bundler jekyll
 $ jekyll new my-awesome-site
 $ cd my-awesome-site
 $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 ```
+
 
 I'll go straight to **syntax** that are essential
 ```
@@ -35,13 +37,14 @@ $ bundle install            # install all the required prerequisites
 $ bundle update             # it updates to current bundle, useful when applying themes
 ```
 
+
 #### Important files inside Jekyll site
-- _config : contains all the important data for site (brain)
-- Gemfile : Jekyll works on Gem structure
-- _drafts : this folder contains all the draft files(posts & pages)
-- _layout : this folder contains layout for site such as home, 404, page & posts
-- _posts : this folder contains all the posts
-- _pages : this folder contains all the Pages
+- _config   : contains all the important data for site (brain)
+- Gemfile   : Jekyll works on Gem structure
+- _drafts   : this folder contains all the draft files(posts & pages)
+- _layout   : this folder contains layout for site such as home, 404, page & posts
+- _posts    : this folder contains all the posts
+- _pages    : this folder contains all the Pages
 
 
 #### Posts Naming Convention
