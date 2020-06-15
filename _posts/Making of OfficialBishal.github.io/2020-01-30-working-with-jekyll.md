@@ -78,6 +78,7 @@ defaults:
 
 ##### Resources
 
-- [Evolution shells in Linux](http://developer.ibm.com/tutorials/l-linux-shells/)
-- [Kernel Defintion](http://www.linfo.org/kernel.html)
-- [The Shell](http://www.cis.rit.edu/class/simg211/unixintro/Shell.html)
+- [Ruby Installation](https://www.ruby-lang.org/en/documentation/installation/)
+- [Jekyll GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [Getting started with GitHub Pages](https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages)
+- [GitHub Pages themes](https://jekyllthemes.io/github-pages-themes)
