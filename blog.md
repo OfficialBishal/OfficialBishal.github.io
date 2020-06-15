@@ -3,7 +3,7 @@ title: Blog
 permalink: /blog/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
-comments: false
+comments: true
 ---
 
 #### Rails 6 db:system:change --to command
