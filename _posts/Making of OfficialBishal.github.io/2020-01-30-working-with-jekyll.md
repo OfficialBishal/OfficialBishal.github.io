@@ -45,12 +45,11 @@ $ bundle update             # it updates to current bundle, useful when applying
 
 #### Posts Naming Convention
 It is mandatory to follow this rule in Jekyll.<br />
-***Year-Month_Date-Title***<br />
+***Year-Month-Date-Title***<br />
 2020-01-30-working-with-jekyll
 
 #### Front Matter
 All the posts and pages contains Front Matter. It contains the properties that are to be followed. It can be <kbd>YAML</kbd> or <kbd>JASON</kbd>.<br />
-##### Example
 ```
 layout: post
 title: “”
