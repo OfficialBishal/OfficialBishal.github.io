@@ -28,7 +28,14 @@ $ bundle exec jekyll serve
 ```
 
 I'll go straight to **syntax** that are essential
-
+```
+$ jekyll new bs_blog        # bs_blog represent the name for my site
+$ bundle exec jekyll serve  # initially running the jekyll site
+$ jekyll serve              # later you can use this command to run locally
+$ jekyll serve --draft      # to run the draft of Jekyll site too
+$ bundle install            # install all the required prerequisites
+$ bundle update             # it updates to current bundle, useful when applying themes
+```
 <figure>
 <img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
 <figcaption>Fig 2. bagan kernel.</figcaption>
