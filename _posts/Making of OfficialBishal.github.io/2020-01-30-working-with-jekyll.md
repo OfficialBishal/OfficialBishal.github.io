@@ -5,14 +5,27 @@ tags: [jekyll, Github, md]
 description: This is about how I created my personal site with the help of Jekyll and Github-Pages.
 ---
 
-<a href="http://www.youtube.com/watch?v=tc4ROCJYbm0&t=70" target="_blank" rel="noopener">Dulu</a> Sebelum adanya <abbr title="Graphical User Interface">GUI</abbr> cara user berinteraksi dengan komputer menggunakan <abbr title="Command Line Interface">CLI</abbr> yaitu mengetik baris perintah pada sebuah antarmuka dalam bentuk baris teks seperti 👇.
+<a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> is most popular Static Site Generator which is widely used in github-pages for free. If you are thinking of having a personal site with blog in it, then Jekyll oon Github-Pages is the perfect choice for us developers.
 
 <figure>
 <img src="/apa-itu-shell/terminal_nginx.gif" alt="installing nginx in ubuntu">
 <figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
 </figure>
 
-Jika kamu pernah menggunakan unix/linux mungkin pernah menggunakan program diatas, bahkan mungkin setiap hari menggunakannya untuk mengeksekusi suatu perintah melalui <a href="http://en.wikipedia.org/wiki/List_of_terminal_emulators" target="_blank" rel="noopener">terminal emulator</a>.
+Pre-requisites for Jekyll are Ruby and Gems
+- It comes default in macOS.
+'''
+$ brew install ruby
+'''
+
+Getting Started with jekyll
+'''
+$ gem install bundler jekyll
+$ jekyll new my-awesome-site
+$ cd my-awesome-site
+$ bundle exec jekyll serve
+# => Now browse to http://localhost:4000
+'''
 
 User<sup id="user">[[1]](#user-ref)</sup> tidak bisa secara langsung berkomunikasi dengan sebuah hardware komputer, maka dari itu kita membutuhkan sebuah sistem operasi; **Kernel** adalah program yang merupakan inti utama dari sistem operasi komputer.
 
