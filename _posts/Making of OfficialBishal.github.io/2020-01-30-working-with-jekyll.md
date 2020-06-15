@@ -8,23 +8,21 @@ description: This is about how I created my personal site with the help of Jekyl
 <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> is most popular Static Site Generator which is widely used in github-pages for free. If you are thinking of having a personal site with blog in it, then Jekyll oon Github-Pages is the perfect choice for us developers.
 
 
-`Pre-requisites for Jekyll are Ruby and Gems
-It comes default in macOS.`
+`Pre-requisites for Jekyll are Ruby and Gems.  It comes in default with macOS.`
 
 ```
 $ brew install ruby
 ```
 
 #### Getting Started with jekyll
-```
 
+```
 $ gem install bundler jekyll
 $ jekyll new my-awesome-site
 $ cd my-awesome-site
 $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 ```
-
 
 I'll go straight to **commands** that are essential:
 ```
@@ -54,7 +52,7 @@ It is mandatory to follow this rule in Jekyll.
 #### Front Matter
 All the posts and pages contains Front Matter. It contains the properties that are to be followed. It can be <kbd>YAML</kbd> or <kbd>JASON</kbd>
 
-#####Example
+##### Example
 ```
 layout: post
 title: “”
