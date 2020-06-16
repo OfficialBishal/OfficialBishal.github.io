@@ -20,7 +20,8 @@ author:
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: ""
+url: https://sthabishal.com.np
+enforce_ssl: sthabishal.com.np
 baseurl:
 permalink: /:title/
 google_analytics:
