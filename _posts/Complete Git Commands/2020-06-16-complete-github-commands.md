@@ -69,5 +69,4 @@ $ ssh-add ~/.ssh/
 
 # Copying ssh key
 $ clip < ~/.ssh/id_rsa.pub
--
 ```
