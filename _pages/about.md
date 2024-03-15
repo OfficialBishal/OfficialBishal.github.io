@@ -6,8 +6,8 @@ subtitle: PhD Student at <a href='https://www.cs.miami.edu/home/zwang/'>Dr. Wang
 
 profile:
   align: right
-  image: avatar.png
-  image_circular: false # crops the image to make it circular
+  image: avatar.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>310K Ungar Building</p>
     <p>1365 Memorial Drive</p>
@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am currently a first-year Ph.D. student at University of Miami majoring in Computer Science. My research focuses on the intersection of machine learning and bioinformatics by developing robust and efficient architecture for deep learning models. I am advised by Prof. [Zheng Wang](https://people.miami.edu/profile/6055356a6dc48ef8c5914e7ddc89de64).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to UM, I received by Bachelor's degree in Computer Engineering from Tribhuvan University in 2022. I also spent a year as a researcher at Research and Innovation Unit(RIU) and also worked under Prof. [Badri Adhikari](https://www.umsl.edu/cmpsci/about/People/Faculty/BadriAdhikari/index.html) to develop the learning platform, [Process Feedback](https://processfeedback.com/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
