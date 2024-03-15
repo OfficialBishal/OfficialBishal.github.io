@@ -20,5 +20,5 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am currently a first-year Ph.D. student at University of Miami majoring in Computer Science. My research focuses on the intersection of machine learning and bioinformatics by developing robust and efficient architecture for deep learning models. I am advised by Prof. [Zheng Wang](https://people.miami.edu/profile/6055356a6dc48ef8c5914e7ddc89de64).
 
-Prior to UM, I received by Bachelor's degree in Computer Engineering from Tribhuvan University in 2022. I also spent a year as a researcher at Research and Innovation Unit(RIU) and also worked under Prof. [Badri Adhikari](https://www.umsl.edu/cmpsci/about/People/Faculty/BadriAdhikari/index.html) to develop the learning platform, [Process Feedback](https://processfeedback.com/).
+Prior to UM, I received my Bachelor's degree in Computer Engineering from Tribhuvan University in 2022. I also spent a year as a researcher at Research and Innovation Unit(RIU) and also worked under Prof. [Badri Adhikari](https://www.umsl.edu/cmpsci/about/People/Faculty/BadriAdhikari/index.html) to develop the learning platform, [Process Feedback](https://processfeedback.org/).
 
