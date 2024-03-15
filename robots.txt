@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://OfficialBishal.github.io/sitemap.xml
+Sitemap: https://sthabishal.com.np//sitemap.xml
