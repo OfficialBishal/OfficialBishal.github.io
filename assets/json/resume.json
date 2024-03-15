@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Bishal Shrestha",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "bishalshrestha@miami.edu",
+    "phone": "(786) 608-4567",
+    "url": "https://sthabishal.com.np/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Coral Gables",
+      "postalCode": "FL 33124",
+      "city": "Miami",
       "countryCode": "US",
-      "region": "California"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "OfficialBishal",
+        "url": "https://twitter.com/OfficialBishal"
       }
     ]
   },
