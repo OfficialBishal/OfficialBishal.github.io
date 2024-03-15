@@ -19,10 +19,39 @@
         "network": "Twitter",
         "username": "OfficialBishal",
         "url": "https://twitter.com/OfficialBishal"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "OfclBishal",
+        "url": "https://linkedin.com/in/OfclBishal"
       }
     ]
   },
-  "work": [
+  "education": [
+    {
+      "institution": "University of Miami, Miami, FL",
+      "location": "Miami, United States",
+      "url": "https://welcome.miami.edu/",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2023",
+      "endDate": "",
+      "score": "10",
+      "courses": ["Bioinformatics"]
+    },
+    {
+      "institution": "Advanced College of Engineering and Management (ACEM)",
+      "location": "Kathmandu, Nepal",
+      "url": "https://acem.edu.np/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "2017",
+      "endDate": "2022",
+      "score": "10",
+      "courses": []
+    }
+  ],
+  "Experiences": [
     {
       "name": "University of Miami",
       "position": "Research Assistant",
@@ -31,19 +60,6 @@
       "endDate": "",
       "summary": "",
       "highlights": ["Bioinformatics"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Miami, Miami, FL",
-      "location": "Miami, United States",
-      "url": "https://www.uzh.ch/",
-      "area": "Computer Science",
-      "studyType": "PhD",
-      "startDate": "2023-08-07",
-      "endDate": "",
-      "score": "10",
-      "courses": ["Bioinformatics"]
     }
   ],
   "certificates": [
@@ -121,6 +137,14 @@
         "Protein-Protein Interaction Prediction",
         "Protein Function Prediction",
         "Gene Expression Analysis"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Deep Learning",
+        "Graph Neural Networks"
       ]
     }
   ],
