@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://www.cs.miami.edu/home/zwang/'>Dr. Wang's Lab, University of Miami</a>.
+subtitle: Ph.D. Student at <a href='https://www.cs.miami.edu/home/zwang/'>Dr. Wang's Lab, University of Miami</a>.
 
 profile:
   align: right
