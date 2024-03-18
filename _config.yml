@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Reach me at bishalshrestha[dot]miami[dot]edu
+  Reach me at bishalshrestha[at]miami[dot]edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
