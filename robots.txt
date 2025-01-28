@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://OfficialBishal.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sthabishal.com.np/sitemap.xml
