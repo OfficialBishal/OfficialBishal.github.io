@@ -28,7 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Ph.D. student at the University of Miami (UM), majoring in Computer Science. My research focuses on developing efficient deep learning models for bioinformatics using machine learning techniques. I am advised by Prof. [Zheng Wang](https://people.miami.edu/profile/6055356a6dc48ef8c5914e7ddc89de64).
+I’m Bishal Shrestha, a Ph.D. student in Computer Science at the University of Miami, where my research bridges artificial intelligence and biology—developing deep learning models to explore the complex architecture of the genome and its role in human health and disease. My work focuses on building computational tools that help us understand how DNA folds and functions across space and time, especially through the lens of single-cell genomics and 3D chromatin organization.
 
-Prior to UM, I received my Bachelor's degree in Computer Engineering from Tribhuvan University in 2022. During my time there, I spend a year as a researcher at the Research and Innovation Unit (RIU). Additionally, I also worked with Prof. [Badri Adhikari](https://www.umsl.edu/cmpsci/about/People/Faculty/BadriAdhikari/index.html) on a project to develop the innovative learning platform, [Process Feedback](https://processfeedback.org/).
+Originally from Kathmandu, Nepal, I began my academic journey in computer engineering, driven by curiosity and a passion for innovation. Over the years, that curiosity evolved into a deep commitment to advancing biological discovery through computation. From building neural networks for genomic data to designing systems that detect changes in genome structure during development or disease, I’m excited by the challenge of turning data into insight.
 
+Beyond research, I’m passionate about scientific communication, mentoring, and contributing to the global conversation around AI in biology. I believe that impactful science comes not just from good models, but from meaningful collaborations, clear storytelling, and a relentless drive to understand the unknown.
