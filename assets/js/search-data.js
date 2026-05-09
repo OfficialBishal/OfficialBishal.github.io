@@ -80,6 +80,34 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-hic4d-spot-published-in-briefings-in-bioinformatics",
+          title: 'HiC4D-SPOT published in Briefings in Bioinformatics',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-serving-as-a-reviewer-for-ismb-2026-intelligent-systems-for-molecular-biology-the-flagship-conference-of-the-international-society-for-computational-biology",
+          title: 'Serving as a reviewer for ISMB 2026 (Intelligent Systems for Molecular Biology), the...',
+          description: "",
+          section: "News",},{id: "news-new-paper-in-embo-molecular-medicine-on-cited2",
+          title: 'New paper in EMBO Molecular Medicine on CITED2',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-arc-submitted-to-proteins-for-casp16",
+          title: 'ARC submitted to PROTEINS for CASP16',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-scw-published-in-bmc-bioinformatics",
+          title: 'SCW published in BMC Bioinformatics',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-protein-rna-quality-assessment-paper-in-bioinformatics",
+          title: 'Protein–RNA quality assessment paper in Bioinformatics',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{
         id: 'social-email',
         title: 'email',
