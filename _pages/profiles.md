@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: bishal_shrestha_portrait_.jpeg
     content: about_bishal.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -19,7 +19,7 @@ profiles:
       <p>1365 Memorial Drive</p>
       <p>Coral Gables, FL 33124</p>
   - align: left
-    image: prof_pic.jpg
+    image: bishal_shrestha_portrait_.jpeg
     content: about_bishal.md
     image_circular: false # crops the image to make it circular
     more_info: >

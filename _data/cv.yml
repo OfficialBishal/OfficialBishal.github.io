@@ -2,96 +2,175 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Bishal Shrestha
+    - name: Phone
+      value: +1 (786) 608-8118
+    - name: Email
+      value: bishalshrestha@miami.edu
+    - name: ORCID
+      value: <a href="https://orcid.org/0009-0004-8330-4348">0009-0004-8330-4348</a>
     - name: Languages
-      value: English, German
+      value: English, Nepali
+
+- title: Research Interests
+  type: list
+  contents:
+    - <strong>AI for structural biology</strong>, structure-centric multimodal foundation models, deep learning for biomolecular structure prediction (proteins, protein–RNA complexes, 3D genome), geometric deep learning and graph transformers, generative models for molecular design, protein function annotation, and translating structural and experimental data into scalable model architectures for biology.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: University of Miami, Coral Gables, FL
+      year: Aug 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Dr. Zheng Wang"
+    - title: Bachelor's in Computer Engineering
+      institution: Tribhuvan University, Nepal
+      year: Jun 2017 - Jan 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "Advisor: Dr. Badri Adhikari"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: University of Miami, Coral Gables, FL
+      year: Aug 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and implemented an ensemble of graph neural network architectures to estimate per-residue local accuracy of predicted protein structures as part of <strong>CASP 16</strong>, the leading community-wide blind assessment in computational structural biology; led this work as <strong>first author</strong> of <strong>ARC</strong> (Assessment of Interface Residue Conformation using an Ensemble of Graph Neural Networks), under review at <em>PROTEINS&#58; Structure, Function, and Bioinformatics</em>.
+        - Applied <strong>Geometric Algebra Transformers (GATr)</strong> to annotate protein function from 3D structures, leveraging E(3)-equivariant geometric deep learning to operate directly on atomic coordinates.
+        - Co-developed a <strong>Graph Transformer</strong> model to assess the quality of predicted <strong>protein–RNA complex</strong> structures, published in <em>Bioinformatics</em> (2026), extending structure-quality estimation beyond proteins to multi-biomolecule systems.
+        - Developed <strong>HiC4D-SPOT</strong>, an unsupervised deep-learning framework using ConvLSTM-based autoencoders to detect spatiotemporal anomalies in 3D chromatin (Hi-C) structure data, published in <em>Briefings in Bioinformatics</em> (2025); achieved high reconstruction fidelity (PCC/SCC > 0.9) and accurately identified structural anomalies including TAD disruptions and chromatin remodeling events.
+        - Developed <strong>scHiGex</strong>, a Graph Transformer model that predicts single-cell gene expression directly from single-cell Hi-C 3D structure data, published in <em>NAR Genomics and Bioinformatics</em> (2025); achieved average absolute error of 0.07 and precise cell-type classification (adjusted Rand index = 1).
+        - Contributed to <strong>SCW</strong>, a method for reconstructing whole-genome 3D structures from extremely sparse single-cell Hi-C data, published in <em>BMC Bioinformatics</em> (2026).
+        - Contributed to <strong>CITED2 study</strong> (Müller et al., <em>EMBO Molecular Medicine</em> 2026) on a druggable epigenetic switch coupling neuronal maturation to regenerative decline, integrating computational analysis with wet-lab experimental data.
+    - title: Research Intern
+      institution: University of Missouri - St. Louis, MO
+      year: Sep 2021 - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Conducted research on adversarial sample generation for Nepal's embossed license plate recognition system, employing adversarial training to enhance model robustness against attack scenarios.
+        - Designed and executed deep learning experiments using convolutional neural networks (CNNs) in PyTorch, including collecting and preprocessing a novel dataset for real-world applications.
+    - title: Student Researcher
+      institution: Research and Innovation Unit, Tribhuvan University
+      year: Apr 2021 - Sep 2021
       description:
+        - Investigated machine learning techniques for customer churn prediction, collaborating with a leading Nepali ISP to optimize business operations through predictive analytics.
+        - Presented findings at the Himalaya International Conference, highlighting the impact of academia-industry partnerships in addressing real-world problems.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Visiting Lecturer
+      institution: University of Miami, Coral Gables, FL
+      year: Spring 2025, Fall 2024
+      description:
+        - "CSC314&#58; Computer Organization and Architecture — Spring 2025, Fall 2024 (2 sections)"
+    - title: Graduate Teaching Assistant
+      institution: University of Miami, Coral Gables, FL
+      year: Spring 2026, Spring 2025, Spring 2024, Fall 2023
+      description:
+        - "CSC314&#58; Computer Organization and Architecture — Spring 2026"
+        - "CSC402&#58; Computer Science Practicum II — Spring 2025, Spring 2024 (Student evaluations: 4.9/5 in Spring 2024 and 4.8/5 in Spring 2025)"
+        - "CSC113/CSC200&#58; Data Science for the World — Fall 2023"
 
-- title: Honors and Awards
+- title: Publications
   type: time_table
   contents:
-    - year: 1921
+    - year: 2026
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "Müller F, McLachlan E, Costa A, Qu J, <strong>Shrestha B</strong>, Wang Z, De Virgiliis F, Hutson T, Zhou L, Kong G, Chadwick J, La Montanara P, Yuan Z, Habermann N, Sousa M, Palmisano I, Di Giovanni S. <em>CITED2 is a druggable epigenetic switch coupling neuronal maturation to regenerative decline.</em> EMBO Molecular Medicine. 2026."
+        - "Siciliano AJ, Bao Y, <strong>Shrestha B</strong>, Wang Z. <em>Inferring the qualities of protein-RNA models with graph transformers.</em> Bioinformatics, btag202. 2026."
+        - "Zhu H, Liu T, <strong>Shrestha B</strong>, Wang Z. <em>SCW&#58; building the whole-genome 3D structures based on extremely sparse single-cell Hi-C data.</em> BMC Bioinformatics, 27(1), 90. 2026."
+    - year: 2025
       items:
-        - Max Planck Medal
+        - "<strong>Shrestha B</strong>, Wang Z. <em>HiC4D-SPOT&#58; a spatiotemporal outlier detection tool for Hi-C data.</em> Briefings in Bioinformatics, 26(4), bbaf341. 2025."
+        - "<strong>Shrestha B</strong>, Siciliano AJ, Zhu H, Liu T, Wang Z. <em>scHiGex&#58; predicting single-cell gene expression based on single-cell Hi-C data.</em> NAR Genomics and Bioinformatics, 7(1), lqaf002. 2025."
+    - year: 2023
+      items:
+        - "<strong>Shrestha B</strong>, Khakurel G, Simkhada K, Adhikari B. <em>Adversarial sample generation and training using geometric masks for accurate and resilient license plate character recognition.</em> arXiv preprint arXiv:2311.12857. 2023."
+    - year: 2021
+      items:
+        - "Prajapati S, Engelhardt M, Shrestha A, Khakurel G, <strong>Shrestha B</strong>, Simkhada K. <em>Industry-Academia Collaboration in Nepal — A case study of Customer Churn Prediction for Worldlink.</em> Research and Innovation Unit. 2021."
 
-- title: Academic Interests
+- title: Publications Under Review
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - "<strong>Shrestha B</strong>, Siciliano AJ, Huang G, Bao Y, Wang Z. <em>ARC&#58; Assessment of Interface Residue Conformation using an Ensemble of Graph Neural Networks.</em> PROTEINS&#58; Structure, Function, and Bioinformatics (Wiley), Manuscript ID 5704351, submitted Mar 2026."
+
+- title: Professional Service
+  type: time_table
+  contents:
+    - title: Reviewer
+      institution: ISMB (Intelligent Systems for Molecular Biology)
+      year: 2026
+
+- title: Posters and Presentations
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - "<strong>Shrestha B</strong> (Advisor&#58; Z. Wang). <em>ARC&#58; Assessment of Interface Residue Conformation using an Ensemble of Graph Neural Networks.</em> Poster at the annual Computing Day, University of Miami, Coral Gables, FL, May 2026."
+    - year: 2025
+      items:
+        - "<strong>Shrestha B</strong> (Advisor&#58; Z. Wang). <em>HiC4D-SPOT&#58; a spatiotemporal outlier detection tool for Hi-C data.</em> Research Presentation at the annual Computing Day, University of Miami, Coral Gables, FL, April 2025."
+    - year: 2024
+      items:
+        - "<strong>Shrestha B</strong> (Advisor&#58; Z. Wang). <em>Predicting single-cell gene expression based on single-cell Hi-C using graph transformer.</em> Research Presentation at the annual Computing Day, University of Miami, Coral Gables, FL, April 2024."
+        - "<strong>Shrestha B</strong> (Advisor&#58; Z. Wang). <em>Predicting single-cell gene expression based on single-cell Hi-C using graph transformer.</em> Research Presentation at the Sylvester Annual Retreat, Sylvester Comprehensive Cancer Center, University of Miami, Miami, FL, Oct 2024."
+
+- title: Programming Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, C, C++
+    - title: Machine Learning Frameworks
       items:
-        - Description 1.
-        - Description 2.
+        - PyTorch, TensorFlow, PyTorch Geometric, Scikit-learn, NumPy, Pandas
+    - title: Deep Learning Methods
+      items:
+        - Graph Neural Networks, Graph Transformers
+        - Geometric / Equivariant Deep Learning (E(3)-equivariant, Geometric Algebra Transformers)
+        - Convolutional Networks, ConvLSTM, Autoencoders, Generative Models
+    - title: Structural & Computational Biology
+      items:
+        - Protein structure prediction and quality assessment (CASP)
+        - Protein function annotation from 3D structure
+        - Protein–RNA complex modeling
+        - 3D genome / Hi-C analysis
+        - Single-cell Hi-C and gene-expression integration
+        - Bioinformatics pipelines
+    - title: Data Visualization
+      items:
+        - Matplotlib, Seaborn
+
+- title: Certifications
+  type: list
+  contents:
+    - Mathematics for Machine Learning — Imperial College London
+    - Neural Networks and Deep Learning — Coursera
+    - Qiskit Global Summer School — IBM
+
+- title: References
+  type: time_table
+  contents:
+    - title: Dr. Zheng Wang
+      institution: Associate Professor, Department of Computer Science, University of Miami (PhD Advisor)
+      description:
+        - "Email&#58; zheng.wang@miami.edu"
+        - "Phone&#58; +1 (305) 284-3642"
+        - "Address&#58; 330M Ungar Building, 1365 Memorial Drive, Coral Gables, FL 33124-4245"
+    - title: Dr. Badri Adhikari
+      institution: Associate Professor, Department of Computer Science, University of Missouri - St. Louis (Research Mentor)
+      description:
+        - "Email&#58; adhikarib@umsl.edu"
+        - "Phone&#58; +1 (573) 639-2847"
+        - "Address&#58; Department of Computer Science, University of Missouri - St. Louis, 1 University Boulevard, St. Louis, MO 63121"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Soft skills:</u> Critical thinking, problem-solving, effective communication, teamwork.
