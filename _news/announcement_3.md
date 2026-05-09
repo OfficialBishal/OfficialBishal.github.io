@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our paper **"HiC4D-SPOT: a spatiotemporal outlier detection tool for Hi-C data"** is published in *Briefings in Bioinformatics* (26(4), bbaf341).
+Our paper **"HiC4D-SPOT: a spatiotemporal outlier detection tool for Hi-C data"** is published in _Briefings in Bioinformatics_ (26(4), bbaf341).
 
 HiC4D-SPOT is an unsupervised deep-learning framework that uses a ConvLSTM-based autoencoder to detect structural anomalies in spatiotemporal 3D chromatin data — including TAD disruptions, loop perturbations, and cohesin-mediated remodeling events.
 

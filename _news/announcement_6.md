@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Co-authored paper **"CITED2 is a druggable epigenetic switch coupling neuronal maturation to regenerative decline"** is published in *EMBO Molecular Medicine* (Müller F, McLachlan E, Costa A, Qu J, **Shrestha B**, Wang Z, et al., 2026).
+Co-authored paper **"CITED2 is a druggable epigenetic switch coupling neuronal maturation to regenerative decline"** is published in _EMBO Molecular Medicine_ (Müller F, McLachlan E, Costa A, Qu J, **Shrestha B**, Wang Z, et al., 2026).
 
 The work identifies CITED2 as a key epigenetic switch active in immature and regenerating neurons but silent after non-regenerative injury, and shows that the clinically approved HDAC inhibitor Panobinostat targets it to promote axonal growth and functional recovery.
 
