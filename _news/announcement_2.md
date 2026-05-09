@@ -13,6 +13,4 @@ This work presents **scHiGex**, a computational tool that leverages graph transf
 Grateful to my advisor Dr. Zheng Wang and collaborators for their support and guidance.  
 
 Read the paper: [DOI: 10.1093/nargab/lqaf002](https://doi.org/10.1093/nargab/lqaf002)  
-Explore the code: [GitHub Repository](https://github.com/zwang-bioinformatics/scHiGex)  
-
-#Bioinformatics #PhDLife #ResearchJourney #SingleCell #HiC #DeepLearning
+Explore the code: [GitHub Repository](https://github.com/zwang-bioinformatics/scHiGex)
