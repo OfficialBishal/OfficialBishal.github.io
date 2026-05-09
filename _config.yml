@@ -4,13 +4,14 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Bishal
-middle_name: 
+middle_name:
 last_name: Shrestha
 contact_note: >
-  Reach me at bishalshrestha[at]miami[dot]edu 
+  Reach me at bishalshrestha[at]miami[dot]edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Ph.D. student in Computer Science at the University of Miami building deep learning models for AI in structural biology and 3D genome organization.
 
-footer_text: 
+footer_text:
 keywords: bishal, bishal-shrestha, phd, officialbishal, shrestha # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -61,9 +62,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: bishal_shrestha_portrait_.jpeg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -113,7 +114,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -187,7 +188,6 @@ exclude:
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME
@@ -262,8 +262,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Shrestha]
+  first_name: [Bishal, B.]
 
   style: apa
   locale: en
