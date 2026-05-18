@@ -1,6 +1,6 @@
 # sthabishal.com.np
 
-Personal academic website of **Bishal Shrestha**, Ph.D. student in Computer Science at the University of Miami working on AI for structural biology, 3D genome organization, and graph transformers in [Dr. Zheng Wang's Lab](https://www.cs.miami.edu/home/zwang/).
+Personal academic website of **Bishal Shrestha**, Doctoral Researcher in Computer Science at the University of Miami working on AI for structural biology, 3D genome organization, and graph transformers in [Dr. Zheng Wang's Lab](https://www.cs.miami.edu/home/zwang/).
 
 Live site: [sthabishal.com.np](https://sthabishal.com.np)
 
